@@ -14,13 +14,14 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   *
+   lägger in en kommentar
    * @param value The value of this node.
    */
   public MyNode(int value) {
     this.value = value;
   }
-
+//THIS IS THE FEATURE BRANCH
   /**
    * Gets the value of this node.
    *
@@ -109,4 +110,4 @@ public class MyNode {
     }
     return cnt;
   }
-} 
+}
