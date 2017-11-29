@@ -7,6 +7,7 @@ import tree.MyNode;
 //Here is for Adam to test
 
 //Hej jag heter Johan
+//Hej CP
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
