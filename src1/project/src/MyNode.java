@@ -15,7 +15,7 @@ public class MyNode {
   /**
    * Class constructor initializing this node's value.
    *
-   lägger in en kommentar
+   TOBIAS TROR HAN KAN GIT
    * @param value The value of this node.
    */
   public MyNode(int value) {

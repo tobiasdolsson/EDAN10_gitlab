@@ -4,6 +4,9 @@ import tree.MyNode;
 
 //Here is a change to test Strict Long Transaction
 //change
+//Here is for Adam to test
+
+//Hej jag heter Johan
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
