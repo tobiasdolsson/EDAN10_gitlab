@@ -9,6 +9,7 @@ import tree.MyNode;
 //Hej jag heter Johan
 //Hotra
 
+
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
