@@ -22,7 +22,7 @@ public class MyNode {
     this.value = value;
   }
 //THIS IS THE FEATURE BRANCH skadabapbam poom
-//Git
+//Git rekteroni efter stash
 
   /**
    * Gets the value of this node.
